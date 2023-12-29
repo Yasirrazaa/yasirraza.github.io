@@ -60,7 +60,7 @@
   - Streamlit for creating the web app
 
 ## Projects
-### [Realtime Facial Emotion Detection Using Deep Learning](https://github.com/Yasirrazaa/Facial-Emotion-Detection](https://github.com/Yasirrazaa/Facial-Emotion-Detection/tree/master )
+### [Realtime Facial Emotion Detection Using Deep Learning](https://github.com/Yasirrazaa/Facial-Emotion-Detection/tree/master )
 Created a web application for detecting human emotions based on facial expressions using ;
 - Python
 - TensorFlow (Model Building, Saving and Loading)

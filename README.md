@@ -13,7 +13,7 @@
 - Data Collection
   - APIs
   - Web Scraping
-    - BeautifulSoup (html parsing)
+    - BeautifulSoup (HTML Parsing)
     - Scrapy
     - Selenium (Javascript Rendering)
 - Data Preprocessing
@@ -60,14 +60,14 @@
   - Streamlit for creating the web app
 
 ## Projects
-### [Realtime Facial Emotion Detection Using Deep Learning](https://github.com/Yasirrazaa/Facial-Emotion-Detection/tree/master )
+### [Realtime Facial Emotion Detection Using Deep Learning](https://github.com/Yasirrazaa/Facial-Emotion-Detection/tree/master)
 Created a web application for detecting human emotions based on facial expressions using ;
 - Python
 - TensorFlow (Model Building, Saving and Loading)
 - CNN
-- OpenCV (Image Preprocessing and face detection)
+- OpenCV (Image Preprocessing and Face Detection)
 - Streamlit (Web Application)
-- Streamlit-webrtc (realtime video streaming)
+- Streamlit-webrtc (Realtime Video Streaming)
 
 ### [WhatsApp Chat Analysis Application](https://github.com/Yasirrazaa/WhatsApp-Chat-Analysis-App)
 Created a web application to analyze WhatsApp Chat (individual and group) using;
@@ -76,4 +76,13 @@ Created a web application to analyze WhatsApp Chat (individual and group) using;
 - Matplotlib (Plotting)
 - Pandas
 - NLTK (Text Preprocessing)
+
+### [Content Based Movie Recommendation System](https://github.com/Yasirrazaa/content-based-movie-recomendation-system)
+Created a web application that recommend movies based on the genre,director and producer etc. using;
+- Python
+- Streamlit (Web Application)
+- Pandas
+- NLTK (Text Preprocessing)
+- Scikit-Learn
+
 
